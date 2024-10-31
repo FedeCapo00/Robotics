@@ -1,7 +1,7 @@
 # RoboticProject
 
 ## Authors
-@riccardobonaccorsi
+Riccardo Bonaccorsi
 
 Elena Badole
 
